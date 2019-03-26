@@ -1,0 +1,4 @@
+Theme A       : Em - Em - Em - Em - Em - Em - Em - Em
+Theme A (ver) : G/F# - Em - G/F# - D - G/F# - Em - G - D
+Theme B       : G  - G  - G  - G  - G  - G  - G  - G
+Theme B (ver) : G - C/G - G - D - G - C/G - Am - D

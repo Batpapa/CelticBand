@@ -1,0 +1,6 @@
+Capo 7 - DADGAD
+Intro : A - A - A - A - A - A - G - G/G# | A - A - G - G - F - F - G - G
+Theme A : A - A - F - E/G - A - A - F/G - G | A - A - F - E/G - A - G - F/G - G
+Theme B : A - A - G - G - F - F - E - G (x2)
+Theme A (v) :  A - A - G# - G# - G - G - F# - F# | F - F - A - A - D - D - C - B
+Theme B (v) : Theme A

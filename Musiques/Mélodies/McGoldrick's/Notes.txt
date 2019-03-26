@@ -1,0 +1,59 @@
+JigX = Accentué au Xème temps
+
+Intro :
+B (jig3&5 à 5 temps) x4 - B (jig3 double jig) x2 - A - G [x2]
+B (jig3&5 à 5 temps PalmMute sur temps forts) x4 - B (jig3) x2 - A - G
+B (OOOX-) x4 - B (jig3) x2 - A - G --- G - G - A - A/
+
+Mélodie :
+D (x8)
+B - A - B - A/G - B - A - G - A
+
+D - D - G - A [x3] - B - A/G - G - A/B
+B - A - B - A/G - E - A - G/D - A
+
+0   0   0
+0   0   0
+7 - 0 - 11 - A/G/A/D
+0   9   12
+9   10  12
+0   0   0
+
+G - F# - G - A/A# - B - A/G - G - A/D
+
+
+
+DADGAD (Capo1)
+
+
+Suite : Willy Coleman's
+
+Intro :
+G (jig1) (x8)
+
+Mélodie :
+G (x8) [x2]
+G - G - C - C - E - E - C - D/G [x2]
+G - G - F# - F# - E - E - C - D/G
+
+G - G - C(barré 3) - C - B - B - C - D/G
+G - B - C - D - ? - ? - C - D/G
+
+G - G - C - C - E - E - C - D/G
+A - A - C - C/D - E - E - C - D/
+
+
+
+Transition :
+C puis G puis A puis B - A/G - B... - A/G - G...
+
+
+
+Suite : Funky Spider (B)
+
+B - B/A - G/F# - E [x2]
+B - G(6)/A - F#(4-5-7)/G/GG - A [x2] (*)
+
+B (XXx-X/X) - B/D/A - G - F#/F# - E [x2]
+
+(*) [x2] (finish)

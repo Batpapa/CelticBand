@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- saved from url=(0192)https://cookies.onetrust.mgr.consensu.org/?name=euconsent&value=BAAAAAAOWj5iFAcABBENBkaAAAAhF7z-Z_blfUdnX09xNuzuGvzh_Wc-mVU0fvIrMElyh4ZR7uvQDxY4G_0rRd9Ccgh85WprGkgRQ6qCkGsFCA9ZoAAAAA&expire=30 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>Onetrust IAB cookies</title>
+  <script>
+  window.onload = function(e){
+
+    var getQueryString = function ( field ) {
+    	var reg = new RegExp( '[?&]' + field + '=([^&#]*)', 'i' );
+    	var string = reg.exec(window.location.href);
+    	return string ? string[1] : null;
+    };
+
+    var name = (getQueryString("name"));    
+    var value = (getQueryString("value"));  
+    var days = (getQueryString("expire"));
+
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    var expires = '; expires=' + date.toGMTString();
+    document.cookie = name + '=' + value + expires + '; path=/; domain=.consensu.org';
+  }
+  </script>
+</head>
+<body>
+  Setting IAB cookies version test 
+
+
+
+</body></html>
