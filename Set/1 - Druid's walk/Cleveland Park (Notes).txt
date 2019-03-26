@@ -1,0 +1,5 @@
+Theme A : Am - F - D - G - Am - F - G - A
+Theme B : Am - Am - F/E - F/E - Am - Am - F/E - F/G
+
+Tester:
+Basse Quinte +0 - +1 - +2 - +1 - +0 - +1 - -2Puissant (appogiatures)

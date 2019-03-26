@@ -1,0 +1,8 @@
+Theme A : Bm - G  - Em - A
+Theme B : G  - D  - Em - A  - G  - D  - Em - Em/F#m
+Theme C : G  - A  - Bm - Bm - G  - A  - Em - Em/F#m
+Theme D : Bm - A  - Em - F#m/G/G/A/A
+
+Theme E : Bm - A    - G  - F#m - Em - F#m - G  - A
+          Bm - Bm/A - G  - G   - A  - A   - Em - G/A
+          Bm - Bm/A - G  - G   - Em - Em  - G  - A +(A sur 1 noire)  
