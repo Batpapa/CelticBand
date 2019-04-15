@@ -1,0 +1,19 @@
+DADGAD (Capo 7)
+
+Part 1 :
+Intro:   C - Am/Bm - C - Am/Adm/Bm - C - Am/Bm - C    - D(*)
+Theme A: C - Am/Bm - C - Bm/Adm/Am - C - D(*)  - C    - Bm/Adm/Am
+         C - D(*)  - C - Bm/Am     - C - D(*)  - C    - Bm/Am
+         C - D(*)  - C - Bm/Am     - C - D(*)  - D(*) - D(*)
+         C - Am/Bm - C - Bm/Adm/Am - C - D(*)  - D(*) - D(*)       [x2] (+ violon) [+x4]
+
+Theme B: G - D(Fd) - A - A [x5]
+         ()/G/D/A [x4] A~
+         G - D(Fd) - A - A [x6]
+
+Theme C: ()/A/A/D~/A [x3] + A(Db)/D/E/G
+         A - A/G [x8]
+         A - A - A - G - A - A/G - G - G [x2]
+         A - A/G [x8]
+         A - A - A - G - A - A/G - G - G
+         A - A - A - G - A - G/A(Fd)/E/G/A
