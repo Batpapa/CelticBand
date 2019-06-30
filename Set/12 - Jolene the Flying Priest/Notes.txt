@@ -1,23 +1,18 @@
-Fly:
+
 Intro Le Cormier
 + Flute + Basse
 + Banjo
 
-Jolene:
+Jolene:(Am)
 Intro guitare
 Refrain + Chant
 Couplet + Basse
 Refrain
 Couplet + Banjo
 Refrain
-
-Musical Priest:
-1 tour
-
-Refrain
 Couplet
-Refrain (fini plaqué)
+Refrain (Transition : finis garde dernière note chant D + F#)
 
-Musical Priest:
+Musical Priest: (Bm)
 Banjo seul
 + Reprise instruments

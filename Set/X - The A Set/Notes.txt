@@ -7,7 +7,7 @@ Theme A: C - Am/Bm - C - Bm/Adm/Am - C - D(*)  - C    - Bm/Adm/Am
          C - D(*)  - C - Bm/Am     - C - D(*)  - D(*) - D(*)
          C - Am/Bm - C - Bm/Adm/Am - C - D(*)  - D(*) - D(*)       [x2] (+ violon) [+x4]
 
-Theme B: G - D(Fd) - A - A [x5]
+Theme B: G - D(Fd) - A - A [x6]
          ()/G/D/A [x4] A~
          G - D(Fd) - A - A [x6]
 
